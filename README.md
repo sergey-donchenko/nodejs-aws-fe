@@ -50,6 +50,7 @@ During the automatic deployment process the CloudFront entity will be created.
 
 `https://d34jhktej75pue.cloudfront.net` ([open this link](d34jhktej75pue.cloudfront.net))
 
+
 ### AWS S3 Bucket
 
 `http://epam2-sergey-donchenko-bucket.s3-website-us-east-1.amazonaws.com/` ([open this link](http://epam2-sergey-donchenko-bucket.s3-website-us-east-1.amazonaws.com/))
